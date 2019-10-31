@@ -1,3 +1,4 @@
+print("Kruskal")
 import mysql.connector
 import pandas as pd
 import networkx as nx
