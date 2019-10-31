@@ -1,5 +1,5 @@
 import mysql.connector
-
+print("Merge")
 class DBHelper:
     def fetchAllStudentInDB(self,list1):
         # 1. create SQL statement
