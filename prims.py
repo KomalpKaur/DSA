@@ -1,4 +1,4 @@
-
+print("Prims")
 import mysql.connector
 import networkx as nx
 import pandas as pd
